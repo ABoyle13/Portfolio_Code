@@ -1,7 +1,0 @@
-Your Order 
-Burger:  9.990000  950 cal
-Coke:  2.500000  140 cal  (330ml  0.000000 abv)
-Buffalo wings:  3.990000  450 cal  (2-4-1)
-Garlic bread:  3.990000  500 cal  (2-4-1)
-Savings: 3.990000
-Total: 16.480000
